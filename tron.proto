@@ -6,7 +6,7 @@ import "core/Discover.proto";
 package protocol;
 
 
-option java_package = "com.changyo.protos"; //Specify the name of the package that generated the Java file
+option java_package = "com.tron.protos"; //Specify the name of the package that generated the Java file
 option java_outer_classname = "Protocol"; //Specify the class name of the generated Java file
 
 enum AccountType {
